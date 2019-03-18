@@ -10,7 +10,7 @@ ssh-copy-id user@remote -p port
 ```
 到这一步已经可以免密登录了
 
-3. 设置别名
+3. 设置别名(本地)
 ```
 # .ssh/config
 Host lab
